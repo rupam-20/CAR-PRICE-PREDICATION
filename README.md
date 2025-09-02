@@ -77,8 +77,9 @@ This project aims to build machine learning models to predict used car prices mo
 🔧 Requirements
 
 Install dependencies:
-
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 
  
